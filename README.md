@@ -11,14 +11,11 @@ Simulated & Physical Validation: Tested thoroughly in Proteus, Tinkercad, and on
 Energy Efficient: Reduces electricity wastage during daylight hours.
 
 👥 Team Members (Group 8)
-Bamiselu Michael (2024/13383) - Project Lead / Documentation
-Bokpe Bright (2024/13401)- Documentation
-Mac-Hope Osben (2024/13358) - Hardware Design
-Madu Oluebube( 2024/13422) Hardware Design
-Konwea Rejoice (2024/13373) - Software Development
-Dom' Ukeje favour (2024/13388) - PCB Routing
-
-
+1.Ekolie Success (Matric No: 2024/13252)
+2.Ayomiposi Omoniyi (Matric No: 2024/13233)
+3.Alegbeleye Praise (Matric No: 2024/13249) 
+4.Eferhino Udih Derrick (Matric No: 2024/13247)
+5.Celestine Udichukwu (Matric No: 2024/13254)
 
 🚀 Hardware Components
 Arduino Uno R3
